@@ -162,17 +162,6 @@ mindset: "Break it to make it stronger."
 
 -----
 
-## 💼 Experience
-
-**Security Engineer** @ [Knock Security Solutions](https://knocksecurity.com) · *Oct 2024 – Mar 2026*
-
-- Conducted **manual & automated web application pentests** targeting OWASP Top 10
-- Delivered technical reports with **risk ratings, PoC screenshots & remediation guidance**
-- Collaborated with dev teams to **validate fixes** and re-tested post-patching
-- Performed **post-exploitation analysis** to confirm mitigation effectiveness
-
------
-
 ## 📬 Let’s Connect
 
 > I’m open to collaborating on **CTF challenges**, **bug bounty programs**, **open-source security tools**, and **mobile/web pentest research**.
